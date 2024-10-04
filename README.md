@@ -1,6 +1,5 @@
 ## Next.js Financial Dashboard
-### install: pnpm install
-### run: pnpm dev
+
 ### Dashboard home page
 
 ![dashboard](https://github.com/user-attachments/assets/4386ff94-f5d2-4bf1-9fec-dd76574c15fa)
@@ -16,3 +15,5 @@
 
 - A full stack web application for invoice and user management. 
 - Used tailwind css for styling, Postgres set up on Vercel for data fetching, NextAuth.js for authentication.
+### install: pnpm install
+### run: pnpm dev
