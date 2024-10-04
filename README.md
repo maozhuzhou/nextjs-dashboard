@@ -13,3 +13,6 @@
 
 ### Edit invoice page
 ![edit](https://github.com/user-attachments/assets/5f963011-ce37-4f6e-850c-d955d52a4c1b)
+
+- A full stack web application for invoice and user management. 
+- Used tailwind css for styling, Postgres set up on Vercel for data fetching, NextAuth.js for authentication.
